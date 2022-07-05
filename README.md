@@ -2,30 +2,6 @@
 
 Job4you is a MERN Stack based web app which helps in streamlining the flow of job application process. It allows users to select there roles (applicant/recruiter), and create an account. In this web app, login session are persistent and REST APIs are securely protected by JWT token verification. After logging in, a recruiter can create/delete/update jobs, shortlist/accept/reject applications, view resume and edit profile. And, an applicant can view jobs, perform fuzzy search with various filters, apply for jobs with an SOP, view applications, upload profile picture, upload resume and edit profile. Hence, it is an all in one solution for a job application system.
 
-Developed by:
-Meshwa Patel (N01414905)
-Khushbu Somani (N01416508)
-Ashka Shah (N01414926)
-Hemant Kumar Kansal (N01468035)
-
-Work Divided:
-Ashka
-- Update Applicant profile
-- User and company rating 
-- Applicant filter and sorting 
-
-Meshwa
-- Job sorting/accept/reject
-- Jobs(add, update, delete)
-
-Khushbu
-- Login
-- Signup
-
-Hemant
-- Update company profile
-- Recruiter filter and sorting
-
 Directory structure of the web app is as follows:
 
 ```
